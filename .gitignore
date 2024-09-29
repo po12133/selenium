@@ -1,0 +1,15 @@
+# Ignorar dependencias de npm
+node_modules/
+
+# Ignorar archivos de entorno
+.env
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# (Opcional) Ignorar package-lock.json si no quieres versionarlo
+# package-lock.json
